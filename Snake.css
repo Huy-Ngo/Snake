@@ -1,0 +1,10 @@
+canvas {
+	display: block;
+	position: absolute;
+	border: 1px solid black;
+	margin: 0 auto;
+	top: 10px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
